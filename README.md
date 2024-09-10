@@ -105,4 +105,4 @@ Contributions are welcome! Feel free to submit a pull request or open an issue i
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Blog
-TO UPDATE
+Link to related blog post: [Cloud codeblock](https://cloudcodeblock.com/2024/09/10/short-circuiting-example/)
